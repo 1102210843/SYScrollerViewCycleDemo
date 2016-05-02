@@ -6,3 +6,5 @@
  *  设置图片自动播放时间，默认2秒
  */                                                                                             
 @property (nonatomic, assign) NSTimeInterval timeInterval;  可自定义播放图片切换时间
+
+大家如果觉得好用不要忘了star，另外如果有问题可以联系我QQ：1102210843，大家共同学习，谢谢
