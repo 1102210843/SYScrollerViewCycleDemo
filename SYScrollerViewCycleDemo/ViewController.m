@@ -26,22 +26,22 @@
     NSMutableArray *datasource = [NSMutableArray array];
     for (NSString *img in IMAGES) {
         
-        //        NSMutableDictionary *dict = [NSMutableDictionary dictionary];
-        //        [dict setObject:img forKey:@"img"];
-        //        [dict setObject:[NSString stringWithFormat:@"标题 %d", i] forKey:@"text"];
-        //
-        //        [dada addObject:dict];
-        //
-        //        i++;
+//        NSMutableDictionary *dict = [NSMutableDictionary dictionary];
+//        [dict setObject:img forKey:@"img"];
+//        [dict setObject:[NSString stringWithFormat:@"标题 %d", i] forKey:@"text"];
+//        
+//        [dada addObject:dict];
+//        
+//        i++;
         
         SYCycleModel *model = [SYCycleModel new];
-        //        model.datasource = dict;
+//        model.datasource = dict;
         model.datasource = img;
         [datasource addObject:model];
     }
     
     SYCycleManager *manager = [SYCycleManager manager];
-    //    manager.delegate = self;
+//    manager.delegate = self;
     manager.parentView = self.view;
     manager.cycleDatasource = datasource;
     manager.style = SYCyclePageStyleLeft;

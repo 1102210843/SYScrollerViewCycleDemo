@@ -2,8 +2,8 @@
 //  main.m
 //  SYScrollerViewCycleDemo
 //
-//  Created by sunyu on 16/4/29.
-//  Copyright © 2016年 sunyu. All rights reserved.
+//  Created by 孙宇 on 2017/1/6.
+//  Copyright © 2017年 孙宇. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>

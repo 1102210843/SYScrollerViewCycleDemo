@@ -36,7 +36,12 @@
 
 + (instancetype)manager
 {
-    return [[self alloc]init];
+    static SYCycleManager *manager = nil;
+    static dispatch_once_t onceToken;
+    dispatch_once(&onceToken, ^{
+        manager = [[self alloc]init];
+    });
+    return manager;
 }
 
 - (instancetype)init

@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "A4E5DE821CD33146002687AD"
+               BlueprintIdentifier = "E9E6D2C81E1F849C0050C368"
                BuildableName = "SYScrollerViewCycleDemo.app"
                BlueprintName = "SYScrollerViewCycleDemo"
                ReferencedContainer = "container:SYScrollerViewCycleDemo.xcodeproj">
@@ -32,9 +32,19 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "A4E5DE9B1CD33147002687AD"
+               BlueprintIdentifier = "E9E6D2E11E1F849C0050C368"
                BuildableName = "SYScrollerViewCycleDemoTests.xctest"
                BlueprintName = "SYScrollerViewCycleDemoTests"
+               ReferencedContainer = "container:SYScrollerViewCycleDemo.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "E9E6D2EC1E1F849C0050C368"
+               BuildableName = "SYScrollerViewCycleDemoUITests.xctest"
+               BlueprintName = "SYScrollerViewCycleDemoUITests"
                ReferencedContainer = "container:SYScrollerViewCycleDemo.xcodeproj">
             </BuildableReference>
          </TestableReference>
@@ -42,7 +52,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "A4E5DE821CD33146002687AD"
+            BlueprintIdentifier = "E9E6D2C81E1F849C0050C368"
             BuildableName = "SYScrollerViewCycleDemo.app"
             BlueprintName = "SYScrollerViewCycleDemo"
             ReferencedContainer = "container:SYScrollerViewCycleDemo.xcodeproj">
@@ -65,7 +75,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "A4E5DE821CD33146002687AD"
+            BlueprintIdentifier = "E9E6D2C81E1F849C0050C368"
             BuildableName = "SYScrollerViewCycleDemo.app"
             BlueprintName = "SYScrollerViewCycleDemo"
             ReferencedContainer = "container:SYScrollerViewCycleDemo.xcodeproj">
@@ -84,7 +94,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "A4E5DE821CD33146002687AD"
+            BlueprintIdentifier = "E9E6D2C81E1F849C0050C368"
             BuildableName = "SYScrollerViewCycleDemo.app"
             BlueprintName = "SYScrollerViewCycleDemo"
             ReferencedContainer = "container:SYScrollerViewCycleDemo.xcodeproj">
